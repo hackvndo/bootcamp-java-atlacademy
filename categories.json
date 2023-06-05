@@ -1,26 +1,26 @@
 [
   {
-    "category": "Cultura",
-    "description": "Preguntas relacionadas con arte, literatura, música y otras expresiones culturales."
-  },
-  {
     "category": "Deportes",
-    "description": "Preguntas relacionadas con diversos deportes y eventos deportivos."
+    "description": "Preguntas sobre diferentes disciplinas deportivas, atletas y eventos deportivos."
   },
   {
-    "category": "Arte",
-    "description": "Preguntas relacionadas con pintura, escultura, arquitectura y otras formas de expresión artística."
-  },
-  {
-    "category": "Cine",
-    "description": "Preguntas relacionadas con películas, directores, actores y otros aspectos del cine."
-  },
-  {
-    "category": "Historia",
-    "description": "Preguntas relacionadas con eventos históricos, personajes y períodos importantes."
+    "category": "Tecnología",
+    "description": "Preguntas acerca de dispositivos, avances y conceptos relacionados con la tecnología."
   },
   {
     "category": "Ciencia",
-    "description": "Preguntas relacionadas con diferentes ramas de la ciencia, descubrimientos y avances científicos."
+    "description": "Preguntas sobre descubrimientos, teorías y conceptos científicos en diversas áreas del conocimiento."
+  },
+  {
+    "category": "Historia",
+    "description": "Preguntas sobre eventos históricos, personajes influyentes y períodos significativos de la historia."
+  },
+  {
+    "category": "Gastronomia",
+    "description": "Preguntas relacionadas con gastronomia."
+  },
+  {
+    "category": "Arte",
+    "description": "Preguntas relacionadas con obras de arte, artistas famosos y movimientos artísticos."
   }
 ]
