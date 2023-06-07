@@ -1,0 +1,44 @@
+[
+  {
+    "category": "Deportes",
+    "question": "¿Cuál es el deporte más popular en el mundo?",
+    "options": ["Fútbol", "Baloncesto", "Tenis"],
+    "answer": 0,
+    "explanation": "El fútbol es considerado el deporte más popular en el mundo, con miles de millones de seguidores en todos los continentes."
+  },
+  {
+    "category": "Tecnología",
+    "question": "¿Qué es un SSD?",
+    "options": ["Solid State Drive", "Super Speed Data", "System Storage Device"],
+    "answer": 1,
+    "explanation": "Un SSD (Solid State Drive) es un dispositivo de almacenamiento de datos que utiliza memoria flash para almacenar información de manera permanente, ofreciendo mayor velocidad y fiabilidad que los discos duros tradicionales."
+  },
+  {
+    "category": "Ciencia",
+    "question": "¿Cuál es la fórmula química del agua?",
+    "options": ["H2O", "CO2", "NaCl"],
+    "answer": 0,
+    "explanation": "La fórmula química del agua es H2O, lo cual indica que está compuesta por dos átomos de hidrógeno (H) y uno de oxígeno (O)."
+  },
+  {
+    "category": "Historia",
+    "question": "¿En qué año ocurrió la Revolución Francesa?",
+    "options": ["1789", "1812", "1836"],
+    "answer": 2,
+    "explanation": "La Revolución Francesa tuvo lugar en el año 1789, marcando un importante acontecimiento en la historia de Francia y sentando las bases para la posterior expansión de ideas revolucionarias en Europa."
+  },
+  {
+    "category": "Gastronomía",
+    "question": "¿Cuál es el ingrediente principal de la paella?",
+    "options": ["Arroz", "Pasta", "Papa"],
+    "answer": 1,
+    "explanation": "El ingrediente principal de la paella es el arroz. Este plato tradicional español se caracteriza por su preparación en una paellera y su combinación de arroz con diversos ingredientes como carnes, mariscos y verduras."
+  },
+  {
+    "category": "Arte",
+    "question": "¿Quién pintó la Mona Lisa?",
+    "options": ["Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh"],
+    "answer": 0,
+    "explanation": "La Mona Lisa fue pintada por Leonardo da Vinci, uno de los artistas más destacados del Renacimiento italiano. Esta icónica obra maestra se encuentra en el Museo del Louvre en París y es conocida por su enigmática sonrisa."
+  }
+]

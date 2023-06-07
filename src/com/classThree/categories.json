@@ -1,0 +1,26 @@
+[
+  {
+    "category": "Deportes",
+    "description": "Preguntas sobre diferentes disciplinas deportivas, atletas y eventos deportivos."
+  },
+  {
+    "category": "Tecnología",
+    "description": "Preguntas acerca de dispositivos, avances y conceptos relacionados con la tecnología."
+  },
+  {
+    "category": "Ciencia",
+    "description": "Preguntas sobre descubrimientos, teorías y conceptos científicos en diversas áreas del conocimiento."
+  },
+  {
+    "category": "Historia",
+    "description": "Preguntas sobre eventos históricos, personajes influyentes y períodos significativos de la historia."
+  },
+  {
+    "category": "Gastronomia",
+    "description": "Preguntas relacionadas con gastronomia."
+  },
+  {
+    "category": "Arte",
+    "description": "Preguntas relacionadas con obras de arte, artistas famosos y movimientos artísticos."
+  }
+]
