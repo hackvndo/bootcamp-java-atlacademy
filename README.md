@@ -1,6 +1,6 @@
 # bootcamp-java-atlacademy
 
-## [ATL Academy Bootcamp](https://atl.academy/bootcamp/java/)
+# [ATL Academy Bootcamp](https://atl.academy/bootcamp/java/)
 
 Módulo 1: Introducción al Bootcamp (1 clase)
 1. Presentación del bootcamp y los objetivos de aprendizaje
