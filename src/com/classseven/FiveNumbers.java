@@ -1,4 +1,4 @@
-package com.classSeven;
+package com.classseven;
 
 /*
 Hacer un programa que permita al usuario ingresar 5 números y mostrarlos.

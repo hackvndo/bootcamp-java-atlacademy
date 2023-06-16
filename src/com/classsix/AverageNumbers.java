@@ -1,4 +1,4 @@
-package com.classSix;
+package com.classsix;
 
 /*
 Armar un programa que permita cargar 3 números y mostrar cual es el número promedio

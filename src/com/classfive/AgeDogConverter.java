@@ -1,4 +1,4 @@
-package com.classFive;
+package com.classfive;
 
 /*
 1) Calculadora de edad de perros:

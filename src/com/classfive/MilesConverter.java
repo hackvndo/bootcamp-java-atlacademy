@@ -1,4 +1,4 @@
-package com.classFive;
+package com.classfive;
 
 /*
 2) Conversor de millas a kilómetros:

@@ -1,4 +1,4 @@
-package com.classSix;
+package com.classsix;
 
 /*
 Escribe un programa que permita al usuario jugar el juego clásico de "piedra, papel, tijeras"

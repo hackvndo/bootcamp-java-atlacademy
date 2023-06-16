@@ -1,4 +1,4 @@
-package com.classEight;
+package com.classeight;
 
 /*
 Crear una función que sea un generador de contraseñas. Al llamarla debe devolver una contraseña (por ejemplo, puedes

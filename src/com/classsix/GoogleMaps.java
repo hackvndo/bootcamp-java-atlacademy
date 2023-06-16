@@ -1,4 +1,4 @@
-package com.classSix;
+package com.classsix;
 
 import java.util.Scanner;
 

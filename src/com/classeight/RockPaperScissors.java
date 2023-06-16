@@ -1,4 +1,4 @@
-package com.classEight;
+package com.classeight;
 
 /*
 Hacer nuevamente el juego de Piedra, Papel o Tijeras pero utilizando funciones, arreglos y bucles.
