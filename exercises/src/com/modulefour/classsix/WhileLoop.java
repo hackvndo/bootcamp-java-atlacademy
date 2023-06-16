@@ -1,4 +1,4 @@
-package com.classsix;
+package com.modulefour.classsix;
 
 /*
 Muestra los números del 1 al 100 utilizando un bucle while.

@@ -1,4 +1,4 @@
-package com.classfive;
+package com.modulefour.classfive;
 
 /*
 3) Calculadora de descuento:

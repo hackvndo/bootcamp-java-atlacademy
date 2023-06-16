@@ -1,4 +1,4 @@
-package com.classsix;
+package com.modulefour.classsix;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package com.classsix;
+package com.modulefour.classsix;
 
 /*
 Arma un programa que permita llamar a una persona por Whatsapp. Es similar al anterior.

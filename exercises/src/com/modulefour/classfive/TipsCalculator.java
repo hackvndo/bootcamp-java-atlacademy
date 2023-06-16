@@ -1,4 +1,4 @@
-package com.classfive;
+package com.modulefour.classfive;
 
 /*
 4) Calculadora de propinas:

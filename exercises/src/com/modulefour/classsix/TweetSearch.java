@@ -1,4 +1,4 @@
-package com.classsix;
+package com.modulefour.classsix;
 
 /*
 Arma un buscador de tweets para Twitter.com. Es bastante similar al anterior.

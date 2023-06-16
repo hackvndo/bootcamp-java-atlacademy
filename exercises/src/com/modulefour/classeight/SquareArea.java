@@ -1,4 +1,4 @@
-package com.classeight;
+package com.modulefour.classeight;
 
 /*
 Hacer una función que calcule el área de un cuadrado. Al llamarla debe devolver el área del cuadrado.

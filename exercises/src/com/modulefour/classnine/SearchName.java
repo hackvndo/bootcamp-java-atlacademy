@@ -1,4 +1,4 @@
-package com.classnine;
+package com.modulefour.classnine;
 
 /*
 Crea un programa que tenga un arreglo con nombres completos de personas. Ademas, debe permitir realizar

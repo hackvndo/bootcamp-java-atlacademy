@@ -1,4 +1,4 @@
-package com.classeight;
+package com.modulefour.classeight;
 
 /*
 Hacer una función que calcule el área de un triángulo. Al llamarla debe devolver el área del triángulo.

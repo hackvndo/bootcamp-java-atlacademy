@@ -1,4 +1,4 @@
-package com.classfive;
+package com.modulefour.classfive;
 
 /*
 Genera un número aleatorio entre 1 y 100. Pídele al usuario que adivine el número.

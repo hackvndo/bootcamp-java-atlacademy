@@ -1,4 +1,4 @@
-package com.classnine;
+package com.modulefour.classnine;
 
 public class Autocomplete {
 

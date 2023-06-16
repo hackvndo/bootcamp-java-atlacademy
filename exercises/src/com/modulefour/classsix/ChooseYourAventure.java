@@ -1,4 +1,4 @@
-package com.classsix;
+package com.modulefour.classsix;
 
 /*
 Crear un programa que cuente una historia al estilo de “Elige tu propia Aventura”.
