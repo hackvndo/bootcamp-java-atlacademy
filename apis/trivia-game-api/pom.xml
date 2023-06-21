@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.iamtiedev</groupId>
-	<artifactId>triviagameapi</artifactId>
+	<artifactId>trivia-game-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>Trivia Game API</name>

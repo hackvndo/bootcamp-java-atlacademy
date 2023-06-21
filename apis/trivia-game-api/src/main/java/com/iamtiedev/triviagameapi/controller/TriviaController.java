@@ -19,7 +19,7 @@ public class TriviaController {
         question.setQuestion("¿Cuál es la fórmula química del agua?");
         question.setAnswer(0);
         question.setExplanation("La fórmula química del agua es H2O, lo cual indica que está compuesta por dos átomos de hidrógeno (H) y uno de oxígeno (O).");
-        
+
         List<String> options = new ArrayList<>();
         options.add("H20");
         options.add("C02");
