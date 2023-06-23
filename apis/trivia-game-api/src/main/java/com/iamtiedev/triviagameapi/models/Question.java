@@ -1,5 +1,7 @@
 package com.iamtiedev.triviagameapi.models;
 
+import java.util.List;
+
 public class Question {
 
     private String category;
