@@ -1,5 +1,13 @@
 package modulefive.classten;
 
+/*
+Vamos a crear una clase llamada Persona. Sus atributos son: id, nombre, edad, fecha de nacimiento y DNI. Construye los siguientes métodos para la clase:
+Un constructor, donde los datos pueden estar vacíos.
+Los setters y getters para cada uno de los atributos.
+mostrar(): Muestra los datos de la persona.
+esMayorDeEdad(): Devuelve un valor lógico indicando si es mayor de edad.
+ */
+
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 
