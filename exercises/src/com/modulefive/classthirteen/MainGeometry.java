@@ -6,9 +6,7 @@ Luego, crea clases derivadas como "Triangulo", "Rectangulo" y "Circulo", que her
 métodos para calcular el área y el perímetro según su forma específica. Crea instancias de las diferentes figuras y muestra sus áreas y perímetros.
  */
 
-import java.util.Scanner;
-
-public class Main {
+public class MainGeometry {
 
     public static void main(String[] args) {
 

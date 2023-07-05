@@ -9,7 +9,7 @@ Puedes añadir más funcionalidades al juego de rol, como habilidades especiales
 diviertas creando y personalizando tu propio juego de rol utilizando la herencia y el polimorfismo en la programación orientada a objetos.
  */
 
-public class MainTwo {
+public class MainGame {
     public static void main(String[] args) {
         Knight knight = new Knight("Sauron", 99, 500, 50);
         Wizard wizard = new Wizard("Gandalf", 87, 390, 300);
