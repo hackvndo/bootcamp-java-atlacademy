@@ -1,4 +1,4 @@
-package com.modulefive.classthirteen;
+package com.modulefive.classthirteen.geometry;
 
 public abstract class Figure {
 

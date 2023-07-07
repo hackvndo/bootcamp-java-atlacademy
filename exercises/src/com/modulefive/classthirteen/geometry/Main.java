@@ -1,4 +1,4 @@
-package com.modulefive.classthirteen;
+package com.modulefive.classthirteen.geometry;
 
 /*
 Crea una clase base llamada "Figura" con métodos para calcular el área y el perímetro de una figura geométrica genérica.
@@ -6,7 +6,7 @@ Luego, crea clases derivadas como "Triangulo", "Rectangulo" y "Circulo", que her
 métodos para calcular el área y el perímetro según su forma específica. Crea instancias de las diferentes figuras y muestra sus áreas y perímetros.
  */
 
-public class MainGeometry {
+public class Main {
 
     public static void main(String[] args) {
 

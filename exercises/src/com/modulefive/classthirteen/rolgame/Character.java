@@ -1,4 +1,4 @@
-package com.modulefive.classthirteen;
+package com.modulefive.classthirteen.rolgame;
 
 public abstract class Character {
     protected String name;

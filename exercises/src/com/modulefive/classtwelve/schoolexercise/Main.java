@@ -1,10 +1,10 @@
-package com.modulefive.classtwelve;
+package com.modulefive.classtwelve.schoolexercise;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class MainSchool {
+public class Main {
     public static void main(String[] args) {
         Scanner console = new Scanner(System.in);
         List<Student> students = new ArrayList<>();

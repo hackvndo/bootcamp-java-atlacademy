@@ -1,4 +1,4 @@
-package com.modulefive.classthirteen;
+package com.modulefive.classthirteen.rolgame;
 
 /*
 Crea una clase base llamada "Personaje" con atributos como nombre, nivel y puntos de vida. Implementa métodos para que el personaje pueda atacar, recibir daño y curarse.
@@ -9,7 +9,7 @@ Puedes añadir más funcionalidades al juego de rol, como habilidades especiales
 diviertas creando y personalizando tu propio juego de rol utilizando la herencia y el polimorfismo en la programación orientada a objetos.
  */
 
-public class MainGame {
+public class Main {
     public static void main(String[] args) {
         Knight knight = new Knight("Sauron", 99, 500, 50);
         Wizard wizard = new Wizard("Gandalf", 87, 390, 300);

@@ -1,4 +1,4 @@
-package com.modulefive.classtwelve;
+package com.modulefive.classtwelve.schoolexercise;
 
 /*
 Crear un programa para ingresar las notas de alumnos utilizando programación orientada a objetos:
